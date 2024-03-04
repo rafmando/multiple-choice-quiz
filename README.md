@@ -1,7 +1,7 @@
 # Multiple Choice Quiz
 
 <img src="public/images/screen1.png">
-<img src="public/images/screen2.png">
+<img src="public/images/screen2.PNG">
 ## Available Scripts
 
 In the project directory, you can run:
